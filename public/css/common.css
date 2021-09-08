@@ -1,0 +1,157 @@
+
+.auto {
+    margin: auto auto;
+}
+
+.full_screen {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+}
+
+.align_center {
+    text-align: center;
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    column-count: 4;
+}
+
+.flex_column {
+    display: flex;
+    flex-flow: column;
+}
+
+.flex_1 {
+    flex: 1;
+}
+
+.back_color {
+    background: #F8F8F8;
+    /* background-color: #107AFF; */
+}
+
+.width_100 {
+    width: 100% !important;
+}
+
+.height_100 {
+    height: 100%;
+}
+
+.padding_10 {
+    padding: 10px;
+}
+
+.padding_5 {
+    padding: 5px;
+}
+
+.padding_left_5 {
+    padding-left: 5px;
+}
+
+.bg_white {
+    background: white;
+}
+
+.margin_10 {
+    margin: 10px;
+}
+
+.margin_5 {
+    margin: 5px;
+}
+
+.padding_top_10 {
+    padding-top: 10px;
+}
+
+.padding_bottom_10 {
+    padding-bottom: 10px;
+}
+
+.margin_bottom_10 {
+    margin-bottom: 10px;
+}
+
+.margin_top_10 {
+    margin-top: 10px !important;
+}
+
+.margin_top_30 {
+    margin-top: 30px !important;
+}
+
+.margin_top_5 {
+    margin-top: 5px;
+}
+
+.margin_left_1 {
+    margin-left: 1px;
+}
+
+.width_25 {
+    width: 25%;
+}
+
+.margin_right_5 {
+    margin-right: 5px;
+}
+
+.margin_right_10 {
+    margin-right: 10px;
+}
+
+.margin_right_20 {
+    margin-right: 20px !important;
+}
+
+.margin_right_30 {
+    margin-right: 30px;
+}
+
+.margin_right_40 {
+    margin-right: 40px;
+}
+
+.margin_left_5 {
+    margin-left: 5px !important;
+}
+
+.margin_left_10 {
+    margin-left: 10px;
+}
+
+.main_color {
+    color: #bf0250;
+}
+
+.primary_color {
+    color: #F0AD4E;
+}
+
+.primary_color_back {
+    background-color: #F0AD4E;
+}
+
+.main_color_bg {
+    background-color: #bf0250;
+}
+
+.white_color {
+    color: white;
+}
+
+.align_left {
+    text-align: left;
+}
+
+.align_right {
+    text-align: right;
+}
